@@ -4,8 +4,13 @@
 }
 img {
     float: left;
+    padding-bottom: 10PX;
+    padding-top: 10px;
 };
- 
+
+body {
+    background-color: lightblue;
+}
 section {
     background-color: #ffffff;
     height: 160;
